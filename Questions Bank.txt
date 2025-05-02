@@ -1,0 +1,45 @@
+//Sample
+Class Employee(){
+private String empName;
+		int id;
+		long salary;
+		String deptId;
+}
+
+class Department(){
+	depId
+	deptName
+	location
+}
+
+Q. need empDetails whose salary is greater than 30K from above class ? 
+Q. Write a program to print Fibonacci Series
+Q. SQL query to find emplyoees details whose salary is Max at every dept and every location
+Q. What is method, implement any and show ?
+Q. OOPS Concepts along with examples with code ?
+Q. Polymorphism and example of it ?
+Q. Multithreading and Threads and deadlocks ?
+Q. Question on Interface, its uses and new features 
+Q. Program to check prime no
+Q. What is Singleton class ?
+Q. Program to reverse a number ?
+Q. Program to reverse a String ?
+Q. Program to check palindrome number 
+Q. Questions on Java 8 Features 
+Q. Given a List of Integers sort it in natural order and reverse order using Streams API
+Q. Find smallest and larget element in an array 
+
+earlier version of java
+java 8 
+core java
+multithrading 
+springboot 
+microservices 
+arr program 
+jdbc hibernate 
+exception handling 
+design pattern (Singleton)
+python for CICD pipeline
+
+List<String> listOfStrings = Arrays.asList("Pen", "Eraser", "Note Book", "Pen", "Pencil", "Pen", "Note Book", "Pencil");
+Q. Given List find the max repeted string using java 8
