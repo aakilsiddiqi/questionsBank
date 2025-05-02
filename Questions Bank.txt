@@ -43,3 +43,158 @@ python for CICD pipeline
 
 List<String> listOfStrings = Arrays.asList("Pen", "Eraser", "Note Book", "Pen", "Pencil", "Pen", "Note Book", "Pencil");
 Q. Given List find the max repeted string using java 8
+
+1. Java (Core + Advanced)
+Core Java
+
+Difference between == and .equals()?
+
+How does HashMap work internally?
+
+What is the difference between ArrayList and LinkedList?
+
+What is the significance of final, finally, and finalize?
+
+Explain String, StringBuilder, and StringBuffer.
+
+What are wrapper classes in Java?
+
+What are the new features in Java 8? (Lambdas, Streams, Optional, Functional Interfaces)
+
+What is a functional interface? Give examples.
+
+What are default and static methods in interfaces?
+
+What is method reference and constructor reference?
+
+Difference between Comparable and Comparator.
+
+Advanced Java
+
+Explain multithreading and how to implement it.
+
+What is synchronization? How is it achieved?
+
+How does garbage collection work?
+
+Explain exception handling hierarchy.
+
+What is serialization and deserialization?
+
+✅ 2. Java Collections Framework
+Difference between HashMap, TreeMap, and LinkedHashMap.
+
+How does ConcurrentHashMap work internally?
+
+Difference between HashSet and TreeSet.
+
+What is the fail-fast and fail-safe iterator?
+
+Difference between ArrayList and Vector.
+
+Explain Queue, Deque, and PriorityQueue usage.
+
+✅ 3. Spring Boot / Spring Framework
+Difference between Spring and Spring Boot.
+
+What is Dependency Injection?
+
+Explain Spring Bean lifecycle.
+
+What are annotations like @Component, @Service, @Repository, @Autowired, @Qualifier, etc.?
+
+What is the use of @RestController and how is it different from @Controller?
+
+How do you handle exceptions globally in Spring Boot?
+
+What is Spring Boot Starter?
+
+What is Spring Actuator?
+
+What is the use of application.properties or application.yml?
+
+✅ 4. Microservices
+What are microservices? How are they different from monolithic architecture?
+
+How do microservices communicate? (REST, Message Brokers)
+
+What is service discovery? Explain with Eureka.
+
+What is API Gateway? Explain with Zuul or Spring Cloud Gateway.
+
+How do you handle configuration management in microservices?
+
+How do you secure microservices?
+
+What are circuit breakers? Explain with Resilience4j or Hystrix.
+
+Explain distributed tracing and monitoring tools.
+
+✅ 5. MySQL / Database
+Difference between WHERE and HAVING clause?
+
+Write query to get the nth highest salary.
+
+What are JOINS? Types with examples.
+
+What is indexing and how does it improve performance?
+
+What are ACID properties?
+
+What is normalization and denormalization?
+
+What is a stored procedure?
+
+Difference between DELETE, TRUNCATE, and DROP.
+
+How to write optimized queries?
+
+✅ 6. Kafka
+What is Kafka and how does it work?
+
+Explain Kafka architecture: broker, producer, consumer, topic, partition.
+
+What is Kafka offset and how is it managed?
+
+What is consumer group and how it works?
+
+How does Kafka ensure reliability and durability?
+
+Difference between Kafka and other messaging systems (RabbitMQ, ActiveMQ).
+
+What is exactly-once semantics?
+
+How do you monitor Kafka?
+
+✅ 7. Cloud & DevOps (Basic Knowledge)
+What is the difference between AWS EC2 and S3?
+
+How do you deploy Spring Boot app on AWS?
+
+What is CI/CD? Have you used Jenkins or GitHub Actions?
+
+What is containerization? Explain Docker briefly.
+
+How does Kubernetes help in managing microservices?
+
+✅ 8. Unit Testing / Mockito
+What is Mockito? How do you mock dependencies?
+
+Difference between @Mock and @InjectMocks.
+
+What is the use of @BeforeEach, @AfterEach?
+
+How do you write unit tests for private methods?
+
+What are test doubles (mock, stub, fake)?
+
+How to write test cases for REST APIs using MockMvc?
+
+✅ 9. Real-World Project Questions
+How did you implement large file handling in your APS 120 project?
+
+How do you manage memory while working with big Excel/CSV files?
+
+How did you merge multiple transformed sheets into ZIP files?
+
+How did you write DAT files based on metadata and file list?
